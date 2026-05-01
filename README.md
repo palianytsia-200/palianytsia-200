@@ -9,6 +9,9 @@ and CTF write-ups for the KPI student cybersec club.
 
 ### what's here
 
+- **U-OB-KY** — my personal Pterodo / UAC-0010 tracker. Notes, IOC
+  tracksheets, and draft Suricata rules I've been keeping since late 2024.
+  Hobby project on my own time; opinions there are my own.
 - **suricata-elk-lab** — docker-compose lab from my BSc thesis (behavioural
   anomaly detection, Suricata + ELK, ~30 MITRE-tagged rules).
 - **ctf-writeups** — HTB / TryHackMe / picoCTF notes, intermediate level.
@@ -18,6 +21,7 @@ and CTF write-ups for the KPI student cybersec club.
 
 ### what i'm reading / working on
 
+- Tracking Pterodo / UAC-0010 in real-time — live notes in `U-OB-KY`.
 - ISO 27001 + ISO 42001 (AI risk management) crosswalks at Brights.
 - CERT-UA bulletins on Russian APT activity (Gamaredon, Sandworm, APT28) —
   thesis topic was lateral-movement detection with Suricata + ELK.
